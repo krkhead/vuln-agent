@@ -1,4 +1,4 @@
-# VulnAgent 🔍
+# VulnAgent 
 
 An AI-powered vulnerability scanner that scans your network, looks up real CVEs from NIST, and generates a plain-English Excel report with remediation steps — all for free.
 
