@@ -48,7 +48,6 @@ BANNER = """
 ==================================================
          VulnAgent - AI Vulnerability Scanner
          Built by Ebube Onuorah
-         github.com/[your-username]/vuln-agent
 ==================================================
 """
 
