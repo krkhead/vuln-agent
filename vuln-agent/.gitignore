@@ -1,4 +1,5 @@
 .env
+.env.local
 cache/
 reports/
 __pycache__/
@@ -7,3 +8,6 @@ __pycache__/
 *.tmp.xlsx
 .venv/
 venv/
+.DS_Store
+*.db
+.pytest_cache/
